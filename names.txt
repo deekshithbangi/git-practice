@@ -1,1 +1,1 @@
-names.txt is modified
+names.txt is modified from the git bash
