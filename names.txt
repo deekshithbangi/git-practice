@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 names.txt is modified from the git bash
+
